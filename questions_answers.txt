@@ -1,0 +1,18 @@
+false
+Is it or was it alive?
+false
+Can it be a pet?
+false
+Does it meow?
+true
+Is it a cat?
+true
+Is it dog?
+true
+Is it a human?
+false
+Is it solid?
+true
+Is it a rock?
+true
+Is it this program?
